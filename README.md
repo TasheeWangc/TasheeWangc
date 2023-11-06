@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tasheewangc&label=Profile%20views&color=0e75b6&style=flat" alt="tasheewangc" /> </p>
 
 
-- 🔭 I’m currently working on **Agriculture Education Website**
+- 🔭 I’m currently working on **Project Management System **
 
-- 🌱 I’m currently learning **Node.js, React, bootstrap**
+- 🌱 I’m currently learning **Flutter, React Js, MERN Stack**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with ****
 
 - 💬 Ask me about **Bootstrap,C,Java,Javascripts**
 
